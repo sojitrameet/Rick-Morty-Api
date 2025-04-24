@@ -1,0 +1,20 @@
+.container
+{
+    width: 80%;
+    margin: auto;
+}
+.coll
+{
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.coll img
+{
+    /* height: 100%; */
+}
+a:hover
+{
+    color: orange;
+    transition: all ease-in-out 0.6s;
+}
